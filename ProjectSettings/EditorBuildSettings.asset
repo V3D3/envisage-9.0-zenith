@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mScenes/Splash.unity
+    guid: 6e5501a4d3bcd5b488589be8b9e38ac7
+  - enabled: 1
+    path: Assets/mScenes/MainMenu.unity
+    guid: adf0f4adce989e244911cd450e5b943b
+  - enabled: 1
+    path: Assets/mScenes/SelectMenu.unity
+    guid: 2becb707bc5287b45841e3ed8527f5b1
+  - enabled: 1
+    path: Assets/mScenes/Tutorial.unity
+    guid: 67de0e789bf704b4093c6947dd404515
+  - enabled: 1
+    path: Assets/mScenes/Transition.unity
+    guid: 24a051e40e7972447944b69b50b54121
+  - enabled: 1
+    path: Assets/DemoFlight.unity
+    guid: a5f60b0afd988a64394be9b9eb9fe880
+  - enabled: 1
+    path: Assets/mScenes/WinScene.unity
+    guid: ce220ebd03b4aaf4d8f3461203a773c8
+  - enabled: 1
+    path: Assets/mScenes/LoseScene.unity
+    guid: f6ce09bcfeff95347830cc1a1dd330c1
+  m_configObjects: {}
